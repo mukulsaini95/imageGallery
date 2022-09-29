@@ -27,7 +27,7 @@
     "react-native-swiper": "^1.6.0",
     "react-navigation": "^4.1.0",
     "react-navigation-stack": "^2.0.16",
-    "recharts": "^1.8.5",
+    "recharts": "^2.1.14",
     "expo-linear-gradient": "~8.0.0"
   },
   "devDependencies": {
